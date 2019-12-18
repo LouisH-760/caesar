@@ -1,7 +1,7 @@
 # Caesar
 Code javascript pour déchiffrer le code césar automatiquement
 # Fichiers:
-- `DomIO.js`, `dfhi.js`, `dfhi.css`, `dom-output.css` : Librairies données par le professeur
+- `DomIO.js`, `dfhi.js`, `dfhi.css`, `dom-output.css` : Librairies données par le professeur **à ajouter pour que le programme fonctionne!**
 - `ueb04.html`, `ueb04.css` : Affichage / Programme principal
 - `cipherLegal.js` : librairie d'opérations de base de chiffrage / déchiffrage
     - `String offset(offset, text, chars)` : fonction qui permet d'encrypter / décrypter le code césar à l'aide d'un offset donné (`offset`), du texte en lui même (`text`) et de l'alphabet donné (`char`)
