@@ -1,0 +1,15 @@
+html body {
+    height: 100%;
+}
+
+#text-output {
+    border: solid 0.5px hsl(0, 0%, 70%);
+    height: 50ex;
+    max-height: 50ex;
+    font-family: "Source Code Pro", "Consolas" , monospace ;
+    font-size: 10pt;
+    margin-top: 8px;
+    overflow: auto;
+    padding: 10px 5px 5px 5px;
+    background-color: hsl(0, 0%, 95%);
+}

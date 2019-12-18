@@ -1,0 +1,39 @@
+.dom-output-header {color: blue;}
+.dom-output-quote {color: #090;}
+.dom-output-negative {color: #d44;}
+.dom-output-positive {color: #292;}
+.dom-output-header, .dom-output-strong {font-weight: bold;}
+.dom-output-em {font-style: italic;}
+.dom-output-link {text-decoration: underline;}
+.dom-output-strikethrough {text-decoration: line-through;}
+
+.dom-output-keyword {color: #708;}
+.dom-output-atom {color: #219;}
+.dom-output-number {color: #164;}
+.dom-output-def {color: #00f;}
+.dom-output-variable,
+.dom-output-punctuation,
+.dom-output-property,
+.dom-output-operator {
+    color: #000;
+}
+.dom-output-variable-2 {color: #05a;}
+.dom-output-variable-3, .dom-output-type {color: #085;}
+.dom-output-comment {color: #a50;}
+.dom-output-string {color: #700;}
+.dom-output-string-2 {color: #740;}
+.dom-output-meta {color: #555;}
+.dom-output-qualifier {color: #555;}
+.dom-output-builtin {color: #30a;}
+.dom-output-bracket {color: #997;}
+.dom-output-tag {color: #170;}
+.dom-output-attribute {color: #00c;}
+.dom-output-hr {color: #999;}
+.dom-output-link {color: #00c;}
+
+.dom-output-error {color: #f00;}
+.dom-output-invalidchar {color: #f00;}
+.dom-output-etc {
+    cursor: pointer;
+}
+
