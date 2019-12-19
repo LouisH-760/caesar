@@ -7,6 +7,7 @@ let mostWordsEnglish = ["the", "and", "that", "have", "this", "that", "for", "no
 
 let textRefGerman = "Anna und Olaf wollen heute das Haus putzen. Sie teilen sich dabei die Arbeit. Anna kümmert sich um Bad und Küche und Olaf putzt das Schlafzimmer.  Zuerst erledigt Anna den Abwasch. Danach trocknet sie das saubere Geschirr ab. Anschließend muss der Boden gefegt werden. Das geht am besten mit einem Besen.  Im Bad gibt es noch mehr Arbeit für Anna. Sie muss mit einem Schwamm die Badewanne putzen und den Boden sauber wischen.  Olaf saugt währenddessen das Schlafzimmer mit dem Staubsauger. Anschließend beginnt er, mit einem Tuch Staub zu wischen. Nachdem er das getan hat, muss er noch die Betten frisch beziehen.  Dann ist das Haus wieder schön sauber.";
 let mostWordsGerman = ["das", "ist", "du", "ich", "nicht", "die", "es", "und", "sie", "der", "was", "wir", "zu", "ein", "er", "in", "sie", "mir", "mit"];
+
 export function caesar(cipher, chars, language)
 {
     let textRef, commonWords;
